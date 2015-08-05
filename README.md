@@ -1,3 +1,3 @@
 # JavaProgramming
 
-1. ComparatorTest
+1. [ComparatorTest](./ComparatorTest/)
