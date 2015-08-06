@@ -8,7 +8,8 @@ public class ClientTest {
 
     public static void main(String[] args) {
         QuietStatic ex1 = new QuietStatic();
-        ex1.classMember++;
+        //ex1.classMember++;
+        QuietStatic.classMember++;
         ex1.instanceMember++;
 
 
