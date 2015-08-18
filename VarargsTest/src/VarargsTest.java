@@ -1,3 +1,7 @@
+/*
+ * Ref: https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html
+ * Section: Arbitrary Number of Arguments
+ * */
 
 public class VarargsTest {
 
