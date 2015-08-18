@@ -1,4 +1,5 @@
 # JavaProgramming
 
 1. [ComparatorTest](./ComparatorTest/)
-1. [StaticKeywordTest](./StaticKeywordTest/)
+2. [StaticKeywordTest](./StaticKeywordTest/)
+3. [VarargsTest](./VarargsTest/) Arbitrary Number of Arguments using varargs
